@@ -378,7 +378,7 @@ body {
 .drill-feedback.err { background: var(--red-bg); border: 1px solid var(--red-border); color: var(--red); }
 .drill-feedback code { font-family: 'JetBrains Mono', monospace; font-size: 11px; background: rgba(0,0,0,0.06); padding: 1px 5px; border-radius: 3px; }
 
-.drill-hint-details { padding: 12px 20px; border-top: 1px solid var(--border); background: var(--yellow-bg); }
+.drill-hint-details { padding: 12px 20px; border-top: 1px solid var(--border); background: var(--yellow-bg); margin-top: 16px; }
 .drill-hint-details summary { font-size: 12px; color: var(--yellow); cursor: pointer; font-weight: 700; list-style: none; }
 .drill-hint-details summary::-webkit-details-marker { display: none; }
 .drill-hint-body { margin-top: 8px; font-size: 12px; color: var(--text2); line-height: 1.7; }
