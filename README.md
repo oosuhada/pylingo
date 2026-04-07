@@ -55,3 +55,7 @@ Then open `http://localhost:8080`.
 현재 GitHub Pages에서 동작하는 학습용 프로젝트입니다. 최신 AI/full-stack 대표 프로젝트와는 성격이 다르지만, 반복 학습 문제를 직접 인터페이스로 만든 초기 frontend/product 기록으로 유지합니다.
 
 This is an intentionally small learning product rather than a current flagship project. It is preserved as an early example of turning a personal study workflow into a usable interface.
+
+## Topics
+
+[`coding-test`](https://github.com/topics/coding-test) · [`css`](https://github.com/topics/css) · [`gamified-learning`](https://github.com/topics/gamified-learning) · [`github-pages`](https://github.com/topics/github-pages) · [`html`](https://github.com/topics/html) · [`javascript`](https://github.com/topics/javascript) · [`learning-tool`](https://github.com/topics/learning-tool) · [`python`](https://github.com/topics/python)
