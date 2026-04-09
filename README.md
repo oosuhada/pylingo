@@ -56,6 +56,16 @@ Then open `http://localhost:8080`.
 
 This is an intentionally small learning product rather than a current flagship project. It is preserved as an early example of turning a personal study workflow into a usable interface.
 
-## Topics
+## Architecture & Topics / 아키텍처 및 주제
 
-[`coding-test`](https://github.com/topics/coding-test) · [`css`](https://github.com/topics/css) · [`gamified-learning`](https://github.com/topics/gamified-learning) · [`github-pages`](https://github.com/topics/github-pages) · [`html`](https://github.com/topics/html) · [`javascript`](https://github.com/topics/javascript) · [`learning-tool`](https://github.com/topics/learning-tool) · [`python`](https://github.com/topics/python) · [`education`](https://github.com/topics/education) · [`study-app`](https://github.com/topics/study-app) · [`web-app`](https://github.com/topics/web-app) · [`programming-education`](https://github.com/topics/programming-education) · [`quiz`](https://github.com/topics/quiz) · [`frontend`](https://github.com/topics/frontend) · [`language-learning`](https://github.com/topics/language-learning) · [`python-learning`](https://github.com/topics/python-learning)
+**Architecture / 아키텍처**<br>
+[`static-site-architecture`](https://github.com/topics/static-site-architecture) · [`single-page-application`](https://github.com/topics/single-page-application) · [`client-side-state`](https://github.com/topics/client-side-state) · [`component-based-ui`](https://github.com/topics/component-based-ui) · [`gamification-loop`](https://github.com/topics/gamification-loop) · [`progressive-disclosure`](https://github.com/topics/progressive-disclosure)
+
+**Core technologies / 핵심 기술**<br>
+[`github-pages`](https://github.com/topics/github-pages)
+
+**Project context / 프로젝트 맥락**<br>
+[`coding-test`](https://github.com/topics/coding-test) · [`education`](https://github.com/topics/education) · [`frontend`](https://github.com/topics/frontend) · [`gamified-learning`](https://github.com/topics/gamified-learning) · [`language-learning`](https://github.com/topics/language-learning) · [`learning-tool`](https://github.com/topics/learning-tool) · [`programming-education`](https://github.com/topics/programming-education) · [`python-learning`](https://github.com/topics/python-learning) · [`quiz`](https://github.com/topics/quiz) · [`study-app`](https://github.com/topics/study-app) · [`web-app`](https://github.com/topics/web-app)
+
+**Implementation stack / 구현 스택**<br>
+[`css`](https://github.com/topics/css) · [`html`](https://github.com/topics/html) · [`javascript`](https://github.com/topics/javascript) · [`python`](https://github.com/topics/python)
