@@ -50,6 +50,11 @@ python3 -m http.server 8080
 
 Then open `http://localhost:8080`.
 
+
+## Deployment contract / 배포 계약
+
+PyLingo is a static site. `npm run build` copies the browser assets into `dist/` so Vercel preview deployments do not depend on framework auto-detection. The `repo-order` metadata branch is intentionally ignored by Vercel because those commits only refresh portfolio ordering and should not create preview builds.
+
 ## Status / 상태
 
 현재 GitHub Pages에서 동작하는 학습용 프로젝트입니다. 최신 AI/full-stack 대표 프로젝트와는 성격이 다르지만, 반복 학습 문제를 직접 인터페이스로 만든 초기 frontend/product 기록으로 유지합니다.
